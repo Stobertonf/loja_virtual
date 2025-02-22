@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "620904597790",
+    "firebase_url": "https://loja-flutter-curso-daniel-default-rtdb.firebaseio.com",
+    "project_id": "loja-flutter-curso-daniel",
+    "storage_bucket": "loja-flutter-curso-daniel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620904597790:android:05aecedffc62b89329a10f",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWP4cl-N4RuDBkGb_wXoisxV7vLH95yCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
